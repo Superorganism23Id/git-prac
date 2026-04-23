@@ -1,1 +1,2 @@
-print('hello git')
+name = input('Enter name : ')
+print(f'welcome {name} to git yo')
